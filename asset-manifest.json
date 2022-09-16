@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-data-fetch-react/static/css/main.e4ea7dce.css",
+    "main.js": "/API-data-fetch-react/static/js/main.673a9b35.js",
+    "index.html": "/API-data-fetch-react/index.html",
+    "main.e4ea7dce.css.map": "/API-data-fetch-react/static/css/main.e4ea7dce.css.map",
+    "main.673a9b35.js.map": "/API-data-fetch-react/static/js/main.673a9b35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ea7dce.css",
+    "static/js/main.673a9b35.js"
+  ]
+}
